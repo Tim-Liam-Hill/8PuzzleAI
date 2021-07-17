@@ -4,14 +4,14 @@ An A* based algorithm that solves a generalized 8 Puzzle board.
 ### Description 
 This program can solve an input 'N' puzzle board where n= x^2 -1 for some x element of the Natural Numbers. Two example (solved) boards are given below.
 
-1 2 3 \n
-4 5 6 \n
-7 8 9 \n
-\n
-1 2 3 4 \n
-5 6 7 8 \n
-9 10 11 12 \n
-13 14 15 0 \n
+1 2 3 <br>
+4 5 6 <br>
+7 8 9 <br>
+<br>
+1 2 3 4 <br>
+5 6 7 8 <br>
+9 10 11 12 <br>
+13 14 15 0 <br>
 
 The aim of the game is to, given a valid input board, move around the zero to achieve a board in which every consecutive number (reading from left to right, top to bottom) 
 is one greater than its predecessor (with the exception of the last number, which must be zero). For a demonstration, see the following website: 
