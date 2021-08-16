@@ -1,4 +1,4 @@
-https://www.code-inspector.com/project/26483/score/svg
+![Code Quality Score](https://www.code-inspector.com/project/26483/score/svg)
 
 # 8PuzzleAI
 An A* based algorithm that solves a generalized 8 Puzzle board.
